@@ -195,17 +195,6 @@
     
     
     <entry>
-      <title>categories</title>
-      <link href="/categories/index.html"/>
-      <url>/categories/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>about</title>
       <link href="/about/index.html"/>
       <url>/about/index.html</url>
@@ -228,11 +217,11 @@
     
     
     <entry>
-      <title>photo</title>
-      <link href="/photo/index.html"/>
-      <url>/photo/index.html</url>
+      <title>categories</title>
+      <link href="/categories/index.html"/>
+      <url>/categories/index.html</url>
       
-        <content type="html"><![CDATA[<div class="gallery-group-main">  <figure class="gallery-group">  <img class="gallery-group-img no-lightbox" src="http://cdn.leesin.fun/hexo/photo/wallpaper/12.jpg" alt="Group Image Gallery">  <figcaption>  <div class="gallery-group-name">壁纸</div>  <p>收藏的一些壁纸</p>  <a href="/photo/wallpaper"></a>  </figcaption>  </figure>    <figure class="gallery-group">  <img class="gallery-group-img no-lightbox" src="http://cdn.leesin.fun/hexo/photo/wallpaper/14.jpg" alt="Group Image Gallery">  <figcaption>  <div class="gallery-group-name">游戏</div>  <p>一些游戏战绩</p>  <a href="/photo/game"></a>  </figcaption>  </figure>  </div>]]></content>
+        <content type="html"><![CDATA[]]></content>
       
     </entry>
     
@@ -243,7 +232,18 @@
       <link href="/music/index.html"/>
       <url>/music/index.html</url>
       
-        <content type="html"><![CDATA[    <div id="aplayer-VtTUICFc" class="aplayer aplayer-tag-marker meting-tag-marker" data-id="8261498022" data-server="netease" data-type="playlist" data-mode="circulation" data-autoplay="true" data-mutex="false" data-listmaxheight="400px" data-preload="none" data-theme="#ad7a86"></div>    <div id="aplayer-HxFYjrOV" class="aplayer aplayer-tag-marker meting-tag-marker" data-id="6631116215" data-server="netease" data-type="playlist" data-mode="circulation" data-autoplay="false" data-mutex="false" data-listmaxheight="400px" data-preload="none" data-theme="#ad7a86"></div>    <div id="aplayer-yBjCGPhd" class="aplayer aplayer-tag-marker meting-tag-marker" data-id="5379001646" data-server="netease" data-type="playlist" data-mode="circulation" data-autoplay="false" data-mutex="false" data-listmaxheight="400px" data-preload="none" data-theme="#ad7a86"></div>]]></content>
+        <content type="html"><![CDATA[    <div id="aplayer-ZUhrNdPu" class="aplayer aplayer-tag-marker meting-tag-marker" data-id="8261498022" data-server="netease" data-type="playlist" data-mode="circulation" data-autoplay="true" data-mutex="false" data-listmaxheight="400px" data-preload="none" data-theme="#ad7a86"></div>    <div id="aplayer-cqdRXlUq" class="aplayer aplayer-tag-marker meting-tag-marker" data-id="6631116215" data-server="netease" data-type="playlist" data-mode="circulation" data-autoplay="false" data-mutex="false" data-listmaxheight="400px" data-preload="none" data-theme="#ad7a86"></div>    <div id="aplayer-PmARmLjC" class="aplayer aplayer-tag-marker meting-tag-marker" data-id="5379001646" data-server="netease" data-type="playlist" data-mode="circulation" data-autoplay="false" data-mutex="false" data-listmaxheight="400px" data-preload="none" data-theme="#ad7a86"></div>]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>photo</title>
+      <link href="/photo/index.html"/>
+      <url>/photo/index.html</url>
+      
+        <content type="html"><![CDATA[<div class="gallery-group-main">  <figure class="gallery-group">  <img class="gallery-group-img no-lightbox" src="http://cdn.leesin.fun/hexo/photo/wallpaper/12.jpg" alt="Group Image Gallery">  <figcaption>  <div class="gallery-group-name">壁纸</div>  <p>收藏的一些壁纸</p>  <a href="/photo/wallpaper"></a>  </figcaption>  </figure>    <figure class="gallery-group">  <img class="gallery-group-img no-lightbox" src="http://cdn.leesin.fun/hexo/photo/wallpaper/14.jpg" alt="Group Image Gallery">  <figcaption>  <div class="gallery-group-name">游戏</div>  <p>一些游戏战绩</p>  <a href="/photo/game"></a>  </figcaption>  </figure>  </div>]]></content>
       
     </entry>
     
