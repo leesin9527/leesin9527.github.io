@@ -1,17 +1,17 @@
 // 动态心跳，更改自己的名称
 $(document).ready(function(e){
-    $('.copyright').html('©2022 <i class="fa-fw fas fa-heartbeat card-announcement-animation cc_pointer"></i> By 偷掉月亮的阿硕');
+    $('.copyright').html('©2023 <i class="fa-fw fas fa-heartbeat card-announcement-animation cc_pointer"></i> By Leesin');
 })
-​
+
 $(document).ready(function(e){
     show_date_time();
 })
-​
+
 //本站运行时间，更改自己建立站点的时间
 function show_date_time(){
     $('.framework-info').html('小破站已经安全运行<span id="span_dt_dt" style="color: #fff;"></span>');
     window.setTimeout("show_date_time()", 1000);
-    BirthDay=new Date("3/5/2022 0:0:0");
+    BirthDay=new Date("3/1/2023 0:0:0");
     today=new Date();
     timeold=(today.getTime()-BirthDay.getTime());
     sectimeold=timeold/1000
