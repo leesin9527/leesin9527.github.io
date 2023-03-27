@@ -250,39 +250,6 @@
     
     
     <entry>
-      <title>categories</title>
-      <link href="/categories/index.html"/>
-      <url>/categories/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>photo</title>
-      <link href="/photo/index.html"/>
-      <url>/photo/index.html</url>
-      
-        <content type="html"><![CDATA[<div class="gallery-group-main">  <figure class="gallery-group">  <img class="gallery-group-img no-lightbox" src="http://cdn.leesin.fun/hexo/photo/wallpaper/12.jpg" alt="Group Image Gallery">  <figcaption>  <div class="gallery-group-name">壁纸</div>  <p>收藏的一些壁纸</p>  <a href="/photo/wallpaper"></a>  </figcaption>  </figure>    <figure class="gallery-group">  <img class="gallery-group-img no-lightbox" src="http://cdn.leesin.fun/hexo/photo/wallpaper/14.jpg" alt="Group Image Gallery">  <figcaption>  <div class="gallery-group-name">游戏</div>  <p>一些游戏战绩</p>  <a href="/photo/game"></a>  </figcaption>  </figure>  </div>]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>music</title>
-      <link href="/music/index.html"/>
-      <url>/music/index.html</url>
-      
-        <content type="html"><![CDATA[    <div id="aplayer-NVCPSYkr" class="aplayer aplayer-tag-marker meting-tag-marker" data-id="8261498022" data-server="netease" data-type="playlist" data-mode="circulation" data-autoplay="true" data-mutex="false" data-listmaxheight="400px" data-preload="none" data-theme="#ad7a86"></div>    <div id="aplayer-EvstWCwT" class="aplayer aplayer-tag-marker meting-tag-marker" data-id="6631116215" data-server="netease" data-type="playlist" data-mode="circulation" data-autoplay="false" data-mutex="false" data-listmaxheight="400px" data-preload="none" data-theme="#ad7a86"></div>    <div id="aplayer-OVWIzEHB" class="aplayer aplayer-tag-marker meting-tag-marker" data-id="5379001646" data-server="netease" data-type="playlist" data-mode="circulation" data-autoplay="false" data-mutex="false" data-listmaxheight="400px" data-preload="none" data-theme="#ad7a86"></div>]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>tags</title>
       <link href="/tags/index.html"/>
       <url>/tags/index.html</url>
@@ -294,11 +261,44 @@
     
     
     <entry>
+      <title>categories</title>
+      <link href="/categories/index.html"/>
+      <url>/categories/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>music</title>
+      <link href="/music/index.html"/>
+      <url>/music/index.html</url>
+      
+        <content type="html"><![CDATA[    <div id="aplayer-txsmxHUm" class="aplayer aplayer-tag-marker meting-tag-marker" data-id="8261498022" data-server="netease" data-type="playlist" data-mode="circulation" data-autoplay="true" data-mutex="false" data-listmaxheight="400px" data-preload="none" data-theme="#ad7a86"></div>    <div id="aplayer-dKDlxeBb" class="aplayer aplayer-tag-marker meting-tag-marker" data-id="6631116215" data-server="netease" data-type="playlist" data-mode="circulation" data-autoplay="false" data-mutex="false" data-listmaxheight="400px" data-preload="none" data-theme="#ad7a86"></div>    <div id="aplayer-LEjUxsiy" class="aplayer aplayer-tag-marker meting-tag-marker" data-id="5379001646" data-server="netease" data-type="playlist" data-mode="circulation" data-autoplay="false" data-mutex="false" data-listmaxheight="400px" data-preload="none" data-theme="#ad7a86"></div>]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>wallpaper</title>
       <link href="/photo/wallpaper/index.html"/>
       <url>/photo/wallpaper/index.html</url>
       
         <content type="html"><![CDATA[<div class="gallery">    <div class="fj-gallery  data" data-rowheight="220" data-limit="10">    <span class="gallery-data">[{"url":"http://cdn.leesin.fun/hexo/photo/wallpaper/1.jpg","alt":""},{"url":"http://cdn.leesin.fun/hexo/photo/wallpaper/2.jpg","alt":""},{"url":"http://cdn.leesin.fun/hexo/photo/wallpaper/3.jpg","alt":""},{"url":"http://cdn.leesin.fun/hexo/photo/wallpaper/4.jpg","alt":""},{"url":"http://cdn.leesin.fun/hexo/photo/wallpaper/5.jpg","alt":""},{"url":"http://cdn.leesin.fun/hexo/photo/wallpaper/6.jpg","alt":""},{"url":"http://cdn.leesin.fun/hexo/photo/wallpaper/7.jpg","alt":""},{"url":"http://cdn.leesin.fun/hexo/photo/wallpaper/8.jpg","alt":""},{"url":"http://cdn.leesin.fun/hexo/photo/wallpaper/9.jpg","alt":""},{"url":"http://cdn.leesin.fun/hexo/photo/wallpaper/10.jpg","alt":""},{"url":"http://cdn.leesin.fun/hexo/photo/wallpaper/11.jpg","alt":""},{"url":"http://cdn.leesin.fun/hexo/photo/wallpaper/12.jpg","alt":""},{"url":"http://cdn.leesin.fun/hexo/photo/wallpaper/13.jpg","alt":""},{"url":"http://cdn.leesin.fun/hexo/photo/wallpaper/14.jpg","alt":""},{"url":"http://cdn.leesin.fun/hexo/photo/wallpaper/15.jpg","alt":""},{"url":"http://cdn.leesin.fun/hexo/photo/wallpaper/16.jpg","alt":""},{"url":"http://cdn.leesin.fun/hexo/photo/wallpaper/17.jpg","alt":""}]</span>    </div>    <button class="gallery-load-more"><span>加载更多</span><i class="fa-solid fa-arrow-down"></i></button>    </div>]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>photo</title>
+      <link href="/photo/index.html"/>
+      <url>/photo/index.html</url>
+      
+        <content type="html"><![CDATA[<div class="gallery-group-main">  <figure class="gallery-group">  <img class="gallery-group-img no-lightbox" src="http://cdn.leesin.fun/hexo/photo/wallpaper/12.jpg" alt="Group Image Gallery">  <figcaption>  <div class="gallery-group-name">壁纸</div>  <p>收藏的一些壁纸</p>  <a href="/photo/wallpaper"></a>  </figcaption>  </figure>    <figure class="gallery-group">  <img class="gallery-group-img no-lightbox" src="http://cdn.leesin.fun/hexo/photo/wallpaper/14.jpg" alt="Group Image Gallery">  <figcaption>  <div class="gallery-group-name">游戏</div>  <p>一些游戏战绩</p>  <a href="/photo/game"></a>  </figcaption>  </figure>  </div>]]></content>
       
     </entry>
     
